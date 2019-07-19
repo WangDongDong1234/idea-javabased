@@ -8,3 +8,24 @@ package myjava.code.datastructure;
  **/
 public class CircleArray_15 {
 }
+
+
+class CircleArray{
+    private int front;
+    private int rear;
+    private int maxSize;//可以存储maxSiza-1个有一个空约定
+    private int[] arr;
+    public CircleArray(int maxSize){
+        this.maxSize=maxSize;
+        arr=new int[maxSize];
+    }
+
+    public boolean isEmpty(){
+        return front==rear;
+    }
+
+    public boolean isFull(){
+        return false;
+    }
+
+}
