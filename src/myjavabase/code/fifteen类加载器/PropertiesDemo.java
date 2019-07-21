@@ -18,7 +18,7 @@ public class PropertiesDemo {
     public void method1() throws Exception {
         //这种方式读取的路径在当前模块下
         Properties properties=new Properties();
-        FileInputStream fil=new FileInputStream("jdbc1.propejrties");
+        FileInputStream fil=new FileInputStream("jdbc1.properties");
         properties.load(fil);
         System.out.println(properties.getProperty("user"));
         System.out.println(properties.getProperty("passwd"));
