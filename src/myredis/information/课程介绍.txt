@@ -1,0 +1,18 @@
+
+【Redis课程介绍】
+
+    Redis（REmote DIctionary Server）是一个key-value存储系统，是当下互联网公司最常用的NoSQL数据库之一，是进入互联网行业的Java开发工程师必备技术。
+
+    在本课程中，你将了解Redis是什么、能干什么、如何用，了解NoSQL的使用场景和概念，快速掌握Redis的安装配置、五大数据类型、常用操作命令、Redis持久化、主从复制、事务控制以及用Jedis操作进行Java开发等知识。
+
+    尚硅谷Redis课程包含基础部分和高级部分。我们后续还会推出Redis视频的高级部分。
+
+	高级部分将包含如下内容：
+	1 Redis的集群：Redis分片的缺点、集群架构、集群操作基本命令。
+	2 Lua脚本语言的介绍，
+	3 Redis和Lua结合,Redis的Lua脚本编程，构建强大的Redis服务。
+	4 Redis整合Spring等。
+	5 Redis集群实现Tomcat集群的Session共享等
+	......
+		
+	
