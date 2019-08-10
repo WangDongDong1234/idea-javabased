@@ -1,0 +1,5 @@
+渲染虚拟DOM（元素）：ReactDOM.render(virtualDOM,containerDOM)
+建虚拟DOM的两种方式：1)	纯JS(一般不用)
+                        React.createElement('h1',  {id:'myTitle'},  title)
+                    2)	JSX:
+                        <h1 id='myTitle'>{title}</h1>
