@@ -1,0 +1,2 @@
+1.字符串转字符数组   a.toCharArray()
+2.将数组按指定字母连接成字符串  String.join(".", cur)
