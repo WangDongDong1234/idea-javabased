@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/lib/pom.xml" />
+        <option value="$PROJECT_DIR$/src/kafka/3.代码/Project0408/pom.xml" />
+        <option value="$PROJECT_DIR$/src/kafka/3.代码/Project0408/kafka-demo/pom_20190823_201253.xml" />
       </list>
     </option>
   </component>

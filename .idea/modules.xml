@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/kafka/3.代码/Project0408/Project0408.iml" filepath="$PROJECT_DIR$/src/kafka/3.代码/Project0408/Project0408.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kafka/3.代码/Project0408/flume-demo/flume-demo.iml" filepath="$PROJECT_DIR$/src/kafka/3.代码/Project0408/flume-demo/flume-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kafka/3.代码/Project0408/guli-video/guli-video.iml" filepath="$PROJECT_DIR$/src/kafka/3.代码/Project0408/guli-video/guli-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kafka/3.代码/Project0408/hadoop-demo/hadoop-demo.iml" filepath="$PROJECT_DIR$/src/kafka/3.代码/Project0408/hadoop-demo/hadoop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kafka/3.代码/Project0408/hbase-demo/hbase-demo.iml" filepath="$PROJECT_DIR$/src/kafka/3.代码/Project0408/hbase-demo/hbase-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kafka/3.代码/Project0408/hive-udf/hive-udf.iml" filepath="$PROJECT_DIR$/src/kafka/3.代码/Project0408/hive-udf/hive-udf.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabased.iml" filepath="$PROJECT_DIR$/javabased.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kafka/3.代码/Project0408/kafka-demo/kafka-demo.iml" filepath="$PROJECT_DIR$/src/kafka/3.代码/Project0408/kafka-demo/kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kafka/3.代码/Project0408/kylin-demo/kylin-demo.iml" filepath="$PROJECT_DIR$/src/kafka/3.代码/Project0408/kylin-demo/kylin-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
     </modules>
   </component>

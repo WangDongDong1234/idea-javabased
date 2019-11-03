@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flume-demo" />
+        <module name="guli-video" />
+        <module name="guli-weibo" />
+        <module name="hadoop-demo" />
+        <module name="hadoopdome" />
+        <module name="hbase-demo" />
+        <module name="hive-udf" />
+        <module name="kafka-demo" />
+        <module name="kylin-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="flume-demo" target="1.8" />
+      <module name="guli-video" target="1.8" />
+      <module name="guli-weibo" target="1.8" />
+      <module name="hadoop-demo" target="1.8" />
+      <module name="hadoopdome" target="1.8" />
+      <module name="hbase-demo" target="1.8" />
+      <module name="hive-demo" target="1.8" />
+      <module name="hive-udf" target="1.8" />
+      <module name="kafka-demo" target="1.8" />
+      <module name="kylin-demo" target="1.8" />
+      <module name="Project0408" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

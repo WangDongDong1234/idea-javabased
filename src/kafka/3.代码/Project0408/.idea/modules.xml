@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project0408.iml" filepath="$PROJECT_DIR$/Project0408.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume-demo/flume-demo.iml" filepath="$PROJECT_DIR$/flume-demo/flume-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-video/guli-video.iml" filepath="$PROJECT_DIR$/guli-video/guli-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-weibo/guli-weibo.iml" filepath="$PROJECT_DIR$/guli-weibo/guli-weibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-demo/hadoop-demo.iml" filepath="$PROJECT_DIR$/hadoop-demo/hadoop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-demo/hbase-demo.iml" filepath="$PROJECT_DIR$/hbase-demo/hbase-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive-udf/hive-udf.iml" filepath="$PROJECT_DIR$/hive-udf/hive-udf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-demo/kafka-demo.iml" filepath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kylin-demo/kylin-demo.iml" filepath="$PROJECT_DIR$/kylin-demo/kylin-demo.iml" />
+    </modules>
+  </component>
+</project>
